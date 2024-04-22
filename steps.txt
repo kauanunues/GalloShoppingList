@@ -1,0 +1,11 @@
+npx create-expo-app galloShoppingList
+
+
+EXPO ROUTER
+
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+
+Coinfigurar o Router:
+ -package.json
+ -app.json
+ 
