@@ -14,3 +14,6 @@ git config --global user.email marykakinho@gmail.com
 
  npx start galloShoppingList
  npx expo start --localhost --android
+
+ Restaurar projeto após clonar
+npm i
