@@ -9,3 +9,8 @@ Coinfigurar o Router:
  -package.json
  -app.json
  
+ git config --global user.name kauannunes
+git config --global user.email marykakinho@gmail.com
+
+ npx start galloShoppingList
+ npx expo start --localhost --android
