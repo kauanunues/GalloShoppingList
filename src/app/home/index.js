@@ -22,6 +22,8 @@ export default function home() {
       source={require('../../assets/background.jpg')}
       resizeMOde='repeat'
       style={{flex:1,justifyContent: 'flex-start'}}
+
+    
       >
        <View style={styles.footer}>
         <Text style={styles.title}>Lista de Produtos</Text>
