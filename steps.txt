@@ -17,3 +17,5 @@ git config --global user.email marykakinho@gmail.com
 
  Restaurar projeto após clonar
 npm i
+
+npx expo install @react-native-async-storage/async-storage    
